@@ -1,0 +1,28 @@
+{
+  "name": "-pruebas-unitarias-02-entorno-jest-primer-test",
+  "version": "1.0.0",
+  "description": "Sigue las instrucciones delineadas en el [documento de la lección](https://hub.hybridge.education/doc/2-entorno-jest-y-primer-test-unitario-Vq9XIyWdew). Deberás crear los archivos necesarios y escribir la prueba unitaria que pruebe el endpoint `/tareas`.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusMercadoPA/-pruebas-unitarias-02-entorno-jest-primer-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JesusMercadoPA/-pruebas-unitarias-02-entorno-jest-primer-test/issues"
+  },
+  "homepage": "https://github.com/JesusMercadoPA/-pruebas-unitarias-02-entorno-jest-primer-test#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  }
+}
